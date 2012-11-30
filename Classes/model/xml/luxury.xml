@@ -1,0 +1,122 @@
+﻿<questions xmlns:en="http://phillipmorris.com/en" xmlns:ar="http://phillipmorris.com/ar">
+  <block id="0">
+    <question en:content="According to Forbes, the World’s richest horse race with a purse of USD 6 million since 2004, is…" 
+    	ar:content="وفقاً لمجلة فوربس، أغنى سباق للخيول في العالم بمحفظة تبلغ 6 ملايين دولار منذ العام 2004 هو:"></question>
+    <options>
+      <option answer="false" en:content="The Belmont Stakes, New York" ar:content="بيلمونت ستيكس الأمريكي"></option>
+      <option answer="false" en:content="The Tripple Crown" ar:content="تريبل كراون"></option>
+      <option answer="false" en:content="The J&amp;B Med" ar:content="جي آند بي ميد"></option>
+      <option answer="true" en:content="The Dubai World Cup" ar:content="كأس دبي العالمي للخيول"></option>
+    </options>
+  </block>
+  <block id="1">
+    <question en:content="According to Wikipedia, at US$310,000,  Vertu’s most expensive model ever made is the…" 
+    	ar:content="وفقاً لموقع ويكيبيديا، الهاتف المتحرّك الأغلى في العالم من فيرتو والذي بلغ ثمنه 310,000 دولار أمريكي هو:"></question>
+    <options>
+      <option answer="true" en:content="Signature Cobra" ar:content="سيغنتشر كوبرا"></option>
+      <option answer="false" en:content="Signature Diamond" ar:content="سيغنتشر دايموند"></option>
+      <option answer="false" en:content="The Constellation" ar:content="ذي كونستلايشن"></option>
+      <option answer="false" en:content="The Ascent Ti" ar:content="ذي أسنت تي آي"></option>
+    </options>
+  </block>
+  <block id="2">
+    <question en:content="According to Forbes he is one of the highest paid actors in Hollywood…" 
+    	ar:content="وفقاً لمجلة فوربس، هو من نجوم هوليوود الأعلى أجراً:"></question>
+    <options>
+      <option answer="false" en:content="Gary Player" ar:content="غاري بلاير"></option>
+      <option answer="true" en:content="Brad Pitt" ar:content="براد بيت"></option>
+      <option answer="false" en:content="Pete Sampras" ar:content="بيت سامبراس"></option>
+      <option answer="false" en:content="Andy Warhol" ar:content="آندي وارهول"></option>
+    </options>
+  </block>
+  <block id="3">
+    <question en:content="According to Forbes, at $202,000, 2010’s priciest ride is the…" 
+    	ar:content="وفقاً لمجلة فوربس، أغلى سيارة للعام 2010 والتي بلغ ثمنها 202,000 دولار هي:"></question>
+    <options>
+      <option answer="true" en:content="Mercedes-Benz S-Class" ar:content="S-Class مرسيدس بنز"></option>
+      <option answer="false" en:content="Audi Q5 SUV" ar:content="Q5 SUV أودي"></option>
+      <option answer="false" en:content="Jaguar's XJ Super V8 sedan" ar:content="V سوبر 8 XJ جاكوار"></option>
+      <option answer="false" en:content="Mercedes-Benz GL550" ar:content="GL مرسيدس بنز 550"></option>
+    </options>
+  </block>
+  <block id="4">
+    <question en:content="According to yachtpals.com, the largest private yacht in the world is the" 
+    	ar:content="وفقاً لموقع YachtPals، اليخت الخصوصي الأغلى في العالم هو:"></question>
+    <options>
+      <option answer="false" en:content="Eclipse" ar:content="إكليبس"></option>
+      <option answer="true" en:content="Dubai" ar:content="دبي"></option>
+      <option answer="false" en:content="Alysia" ar:content="أليزيا"></option>
+      <option answer="false" en:content="Le Grand Bleu" ar:content="لو غراند بلو"></option>
+    </options>
+  </block>
+  <block id="6">
+    <question en:content="As reported by elitechoice.org, the world’s most expensive Abaya, covered with 4688 individual diamonds and 359.7gr of white gold, is valued at:" 
+ 		ar:content="وفقاً لموقع elitechoice.org، العباية الأغلى في العالم، والمرصعة بـ4688 ألماسة و359,7 غرام من الذهب الأبيض، تصل تكلفتها إلى:"></question>
+    <options>
+      <option answer="false" en:content="US$ 150,000" ar:content="١٥٠,٠٠٠ دولار أمريكي"></option>
+      <option answer="true" en:content="US$ 350,000" ar:content="٣٥٠,٠٠٠ دولار أمريكي"></option>
+      <option answer="false" en:content=" US$ 550,000" ar:content="٥٥٠,٠٠٠ دولار أمريكي"></option>
+      <option answer="false" en:content="US$ 600,000" ar:content="٦٠٠,٠٠٠ دولار أمريكي"></option>
+    </options>
+  </block>  
+  <block id="5">
+    <question en:content="A rare pearl necklace belonging to the legendary Umm Kulthum was sold in a Christies auction for:" 
+    	ar:content="بيع عقد نادر من اللؤلؤ امتلكته المطربة أم كلثوم في مزاد كريستيز العلني بمبلغ:"></question>
+    <options>
+      <option answer="false" en:content="US$ 500,000" ar:content="٥٠٠,٠٠٠ دولار أمريكي"></option>
+      <option answer="false" en:content="US$ 800,000" ar:content="٨٠٠,٠٠٠ دولار أمريكي"></option>
+      <option answer="true" en:content="US$ 1.4 mil" ar:content="١,٤ مليون دولار أمريكي"></option>
+      <option answer="false" en:content="US$ 3 mil" ar:content="٣ مليون دولار أمريكي"></option>
+    </options>
+  </block>
+  <block id="7">
+    <question en:content="According to Wikipedia, The yacht featured in James Bond's 'Never Say Never' Movie is owned by:" 
+    	ar:content="وفقاً لموقع ويكيبيديا، يملك اليخت الذي يظهر في فيلم جيمس بوند Never Say Never:"></question>
+    <options>
+      <option answer="false" en:content="Donald trump" ar:content="دونالد ترامب"></option>
+      <option answer="true" en:content="Prince Al Waleed bin Talal" ar:content="الأمير الوليد بن طلال"></option>
+      <option answer="false" en:content="Bill Gates" ar:content="بيل غيتس"></option>
+      <option answer="false" en:content="Warren Buffet" ar:content="وارين بافيت"></option>
+    </options>
+  </block>
+  <block id="8">
+	<question en:content="One of the world’s most expensive license plates, Abu Dhabi 1 was sold for:" 
+		ar:content='بيعت إحدى أغلى لوحات أرقام السيارات في العالم ("1" أبوظبي) بمبلغ:'></question>
+	<options>
+	  <option answer="false" en:content="US$ 4 mio" ar:content="٤ ملايين دولار أمريكي"></option>
+	  <option answer="true" en:content="US 14 mio" ar:content="١٤ مليون دولار أمريكي"></option>
+	  <option answer="false" en:content="US$ 24 mio" ar:content="٢٤ مليون دولار أمريكي"></option>
+	  <option answer="false" en:content="US$ 34 mio" ar:content="٣٤ مليون دولار أمريكي"></option>
+	</options>
+	</block>
+  <block id="10">
+    <question en:content="Oud Wood is a luxurious perfume by exclusive designer" 
+    	ar:content="عطر Oud Wood الفخم هو من تصميم:"></question>
+    <options>
+      <option answer="false" en:content="Ralph Lauren" ar:content="رالف لورين"></option>
+      <option answer="false" en:content="Versace" ar:content="فيرساتشي"></option>
+      <option answer="true" en:content="Tom Ford" ar:content="توم فورد"></option>
+      <option answer="false" en:content="Marc Jacobs" ar:content="مارك جاكوبس"></option>
+    </options>
+  </block>
+  <block id="9">
+    <question en:content="According to Wikipedia, The world’s largest oil field is in" 
+    	ar:content="وفقاً لموقع ويكيبيديا، يقع أكبر حقل بترول في العالم في:"></question>
+    <options>
+      <option answer="false" en:content="Venezuela" ar:content="فنزويلا"></option>
+      <option answer="true" en:content="Saudi Arabia" ar:content="المملكة العربية السعودية"></option>
+      <option answer="false" en:content="Canada" ar:content="كندا"></option>
+      <option answer="false" en:content="Russia" ar:content="روسيا"></option>
+    </options>
+  </block>
+  <block id="11">
+    <question en:content="Which of the following is a major landmark and a main tourist attraction in the State of Kuwait?" 
+    	ar:content="أي المعالم التالية في الكويت هو الأكبر والأكثر جذباً للسياح؟"></question>
+    <options>
+      <option answer="true" en:content="Kuwait Towers" ar:content="أبراج الكويت"></option>
+      <option answer="false" en:content="Al Hamra Towers" ar:content="برج الحمراء"></option>
+      <option answer="false" en:content="Al Awadee Towers" ar:content="برج العوضي"></option>
+      <option answer="false" en:content="Al Asfour Towers" ar:content="برج العصفور"></option>
+    </options>
+  </block>
+</questions>
